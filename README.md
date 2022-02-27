@@ -1,5 +1,5 @@
 # MapsApp!
-
+-CoreLocation,MapKit
 -Getting the user's location
 -The user can pin the desired point on the map
 -Saving the pinned point with name and note
